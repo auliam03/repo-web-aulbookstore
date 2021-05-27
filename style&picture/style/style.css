@@ -1,0 +1,51 @@
+#navbar{
+  background-color: #7A1212;}
+
+body{
+background-color: #117B86;
+font-family: 'Amaranth', sans-serif}
+h2{
+  color:rgb(209, 36, 51);
+  font-size: 20px;
+}
+.footer{
+  font-size: 20px;
+  text-align: center;
+}
+
+.ikon{
+  width: 100px;
+  height: auto;
+}
+
+
+.container label{
+  text-align: left;
+  color: #f34361;
+}
+.container form .komen {
+  width: calc(100% - 20px);
+  padding: 8px 10px;
+  margin-bottom: 15px;
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid #2979ff;
+  color: #fff;
+  font-size: 20px;
+}
+
+
+textarea{
+  width: 70px;
+  height: 50px;
+}
+
+.copyright {
+  font-size: 20px;
+  text-align: center;
+  background-color: darkcyan;
+  height: 40px;
+}
+.quote{
+  width: 10px;
+}

@@ -1,0 +1,31 @@
+#navbar{
+  background-color:   #631414;}
+  
+.img-card{
+  padding: 10px;
+}
+.cards{
+  margin: 50px;
+  
+}
+.col{
+  margin-bottom: 35px;
+
+}
+body{
+  background-color: #601951;
+font-family: 'Amaranth', sans-serif}
+h3{
+  color: #0d477e;
+  margin: 20px;
+}
+footer{
+  font-size: 20px;
+  text-align: center;
+  background-color: #067070;
+  height: 40px;
+}
+.ikon{
+  width: 100px;
+  height: 100px;
+}
